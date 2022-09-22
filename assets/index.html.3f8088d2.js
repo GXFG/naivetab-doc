@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./app.4385b98b.js";const n={},s=c("p",null,"https://gxfg.github.io/naivetab-doc/",-1),_=[s];function a(i,r){return t(),o("div",null,_)}const d=e(n,[["render",a],["__file","index.html.vue"]]);export{d as default};
