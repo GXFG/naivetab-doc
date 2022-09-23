@@ -27,7 +27,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'NaiveTab 新标签页',
   description: '一款简洁的浏览器新标签页扩展，可以高度自定义你的新标签页',
-  head: [['link', { rel: 'icon', size: 'any', href: '/images/logo.svg' }]],
+  head: [['link', { rel: 'icon', size: 'any', href: '/naivetab-doc/images/logo.svg' }]],
   theme: defaultTheme({
     logo: '/images/logo.svg',
     navbar: [
