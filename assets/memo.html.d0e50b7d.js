@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as o,a as e,b as c}from"./app.976fdf8b.js";const r={},s=e("h1",{id:"\u5907\u5FD8\u5F55",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u5907\u5FD8\u5F55","aria-hidden":"true"},"#"),c(" \u5907\u5FD8\u5F55")],-1),n=[s];function _(d,i){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","memo.html.vue"]]);export{l as default};
