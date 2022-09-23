@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-44c6a868","path":"/guide/help-translation.html","title":"\u5E2E\u52A9\u7FFB\u8BD1","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663931224000,"contributors":[{"name":"GXFG","email":"gaofengim@live.com","commits":1}]},"filePathRelative":"guide/help-translation.md"}');export{e as data};
