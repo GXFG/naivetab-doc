@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as r,a as e,b as c}from"./app.3f990490.js";const o={},s=e("h1",{id:"\u5929\u6C14",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u5929\u6C14","aria-hidden":"true"},"#"),c(" \u5929\u6C14")],-1),n=[s];function _(d,h){return a(),r("div",null,n)}const l=t(o,[["render",_],["__file","weather.html.vue"]]);export{l as default};
