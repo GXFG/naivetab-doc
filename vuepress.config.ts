@@ -49,7 +49,16 @@ export default defineUserConfig({
       },
       {
         text: '反馈建议',
-        link: 'https://github.com/GXFG/newtab-naivetab/issues',
+        children: [
+          {
+            text: 'Issue',
+            link: 'https://github.com/GXFG/newtab-naivetab/issues',
+          },
+          {
+            text: 'Email',
+            link: 'mailto:gxfgim@outlook.com?subject=NaiveTab Feedback Translation',
+          },
+        ]
       },
       {
         text: 'Github',
