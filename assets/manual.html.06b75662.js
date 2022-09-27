@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-ae06f274","path":"/install/manual.html","title":"\u624B\u52A8\u5B89\u88C5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663931224000,"contributors":[{"name":"GXFG","email":"gaofengim@live.com","commits":1}]},"filePathRelative":"install/manual.md"}');export{a as data};
