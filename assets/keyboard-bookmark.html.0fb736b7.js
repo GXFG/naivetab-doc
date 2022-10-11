@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7a5271e9","path":"/guide/keyboard-bookmark.html","title":"\u952E\u76D8\u4E66\u7B7E","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"filePathRelative":"guide/keyboard-bookmark.md"}');export{e as data};
