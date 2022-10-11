@@ -61,7 +61,11 @@ export default defineUserConfig({
         ]
       },
       {
-        text: 'Github',
+        text: '买杯咖啡',
+        link: 'https://github.com/GXFG/newtab-naivetab/blob/main/sponsor.md',
+      },
+      {
+        text: 'GitHub',
         link: 'https://github.com/GXFG/newtab-naivetab',
       },
     ],

@@ -12,10 +12,15 @@ NaiveTab 新标签页，一款简洁的浏览器新标签页扩展，可以高�
 
 每天在浏览器内需要经常打开几个网站，为了完成快速打开书签这件事，起初开发了一个简易的键盘书签，只要我按下键盘上对应的按键就可以完成快速打开书签的动作。它是一个WEB页面，原型在[这里](https://gxfg.github.io/newtab/)。
 
+<div style="width: 700px;">
+  <img src="/images/introduce/prototype.png" alt="image">
+  <p style="font-size: 12px; text-align: center;">原型截图</p>
+</div>
+
 但很快我在使用过程中就不满足于目前的打开速度，以及计划在未来实现更多的其他功能，决定将它打包为浏览器扩展程序。
 
-。。。
+…………
 
-于是后面逐渐就有了现在的NaiveTab。
+于是后面逐渐就有了现在的`NaiveTab`。
 
 你可以通过修改它暴露出的大量设置项，将它随意修改成自己喜欢的样子，实现个人的自定义需求。
