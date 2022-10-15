@@ -6,3 +6,10 @@
   <img src="/images/calendar/calendar.png" alt="image">
   <p style="font-size: 12px; text-align: center;">万年历</p>
 </div>
+
+> 支持单日详细信息的展示
+
+<div style="width: 400px;">
+  <img src="/images/calendar/calendar-detail.png" alt="image">
+  <p style="font-size: 12px; text-align: center;">万年历-详情</p>
+</div>
