@@ -5,6 +5,9 @@
 <div style="width: 400px;">
   <img src="/images/weather/weather.png" alt="image">
   <p style="font-size: 12px; text-align: center;">天气</p>
+</div>
+
+<div style="width: 500px;">
   <img src="/images/weather/weather-warning.png" alt="image">
   <p style="font-size: 12px; text-align: center;">天气-预警</p>
 </div>
