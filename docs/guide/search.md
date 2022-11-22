@@ -1,6 +1,6 @@
 # 搜索栏
 
-> 可自定义搜索引擎，方便快速搜索
+> 可自定义搜索引擎，方便快速搜索，支持按键操作
 
 <div style="width: 450px;">
   <img src="/images/search/search.png" alt="image">
