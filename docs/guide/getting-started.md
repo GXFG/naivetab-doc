@@ -23,7 +23,7 @@
 1. 点击左上角`退出按钮`或按`Esc键`可退出“画布模式”
 2. 通过`鼠标右键菜单`可再次进入“组件设置”、“画布模式”
 
-<div style="width: 700px;">
+<div style="width: 400px;">
   <img src="/images/getting-started/right-menu-general.png" alt="image">
   <p style="font-size: 12px; text-align: center;">在空白处点击右键菜单</p>
 </div>

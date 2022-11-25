@@ -4,13 +4,17 @@
 
 鼠标**悬浮在组件上**，点击`鼠标右键`唤出设置菜单，点击“组件设置”，可进行功能、样式的修改
 
-<div style="width: 700px;">
-  <img src="/images/general/right-menu-clock.png" alt="image">
-  <p style="font-size: 12px; text-align: center;">在时钟上点击右键菜单</p>
-  <img src="/images/general/setting-clock.png" alt="image">
-  <p style="font-size: 12px; text-align: center;">设置面板-时钟</p>
+<div style="width: 350px;">
   <img src="/images/getting-started/right-menu-general.png" alt="image">
   <p style="font-size: 12px; text-align: center;">在空白处点击右键菜单</p>
+</div>
+<div style="width: 350px;">
+  <img src="/images/general/right-menu-clock.png" alt="image">
+  <p style="font-size: 12px; text-align: center;">在数字时钟上点击右键菜单</p>
+</div>
+<div style="width: 600px;">
+  <img src="/images/general/setting-clock.png" alt="image">
+  <p style="font-size: 12px; text-align: center;">设置面板-时钟</p>
 </div>
 
 ## 画布模式
