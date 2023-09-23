@@ -22,5 +22,5 @@ features:
     details: 支持自动/手动切换，浅色/深色外观，夜晚下的页面不再刺眼了
   - title: 源码开源
     details: 无任何隐私信息或操作信息的获取，你的任何信息都是私有的
-footer: MIT Licensed | Copyright © 2022-present GXFG
+footer: Copyright © 2023 GXFG
 ---
