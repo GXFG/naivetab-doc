@@ -7,6 +7,8 @@
 <div style="width: 500px;">
   <img src="/images/keyboard-bookmark/keyboard-hhkb.png" alt="image">
   <p style="font-size: 12px; text-align: center;">HHKB</p>
+  <img src="/images/keyboard-bookmark/keyboard-61.png" alt="image">
+  <p style="font-size: 12px; text-align: center;">61</p>
   <img src="/images/keyboard-bookmark/keyboard-64.png" alt="image">
   <p style="font-size: 12px; text-align: center;">64</p>
   <img src="/images/keyboard-bookmark/keyboard-67.png" alt="image">

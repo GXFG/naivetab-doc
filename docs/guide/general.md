@@ -17,15 +17,15 @@
   <p style="font-size: 12px; text-align: center;">设置面板-时钟</p>
 </div>
 
-## 画布模式
+## 编辑布局
 
-入口：在空白处点击鼠标右键唤出菜单，选择**画布模式**
+入口：在空白处点击鼠标右键唤出菜单，选择**编辑布局**
 
 各组件可拖放在屏幕上的任意位置，完全自定义，当然也是兼容各分辨率屏幕下的展示的
 
 <div style="width: 700px;">
   <img src="/images/general/drag-model.png" alt="image">
-  <p style="font-size: 12px; text-align: center;">画布模式</p>
+  <p style="font-size: 12px; text-align: center;">编辑布局</p>
 </div>
 
 ## 丰富的样式设置
