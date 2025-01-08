@@ -1,14 +1,15 @@
 {
   "name": "naivetab-doc",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "scripts": {
-    "serve": "vuepress dev docs",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "deploy": "bash deploy.sh"
   },
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.51"
+    "vitepress": "^1.5.0"
   }
 }
